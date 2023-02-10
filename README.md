@@ -12,5 +12,6 @@ Furthermore, they will be ready to attempt the following qualifications:
 
 PCEP - Certified Entry-Level Python Programmer (after completing Python Essentials 1)
 PCAP - Python Certified Associate Programmer (after completing Python Essentials 2)
-from the OpenEDG Python Institute.
+from the OpenEDG Python Institute.<br>
+
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/83746123/218042881-11ac86e6-7aa4-46cf-8bb4-9f2fb2440996.png">
