@@ -14,4 +14,6 @@ PCEP - Certified Entry-Level Python Programmer (after completing Python Essentia
 PCAP - Python Certified Associate Programmer (after completing Python Essentials 2)<br>
 from the OpenEDG Python Institute.<br>
 
-<img width="485" alt="image" src="https://user-images.githubusercontent.com/83746123/218042881-11ac86e6-7aa4-46cf-8bb4-9f2fb2440996.png">
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/83746123/218042881-11ac86e6-7aa4-46cf-8bb4-9f2fb2440996.png"><br>
+
+[PCAP Programming Essentials in Python.pdf](https://github.com/prashant-027/PCAP-Programming-Essentials-in-Python/files/10705407/PCAP.Programming.Essentials.in.Python.pdf)
